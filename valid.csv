@@ -1,0 +1,209 @@
+id,RequirementText,BR,FR
+79,The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.,0,0
+80,Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.,1,0
+81,Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,1,0
+82,Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.,1,0
+83,The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles,0,1
+84,The system shall locate the preferred repair facility with the highest ratings for the input criteria,1,0
+85,The adjuster shall enter the preferred repair facility on the estimate assignment.,0,1
+86,The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.,0,1
+87,The preferred repair facility shall be returned to the user.,1,0
+88,The estimator shall search for available recycled parts using damaged vehicle parts information.,1,0
+89,The estimator shall search for available recycled parts using a list of preferred parts suppliers.,1,0
+90,The system shall search for available recycled parts for the supplied vehicle parts and suppliers.,1,1
+91,The available recycled parts information and their suppliers shall be returned to the user.,1,1
+92,The estimator shall apply selected recycled parts to the collision estimate.,0,1
+93,The adjuster shall review the collision estimate.,0,1
+94,The adjuster shall request a recycled parts audit of the collision estimate.,0,1
+95,The recycled parts search results provided to the estimator shall be retrieved by the system.,1,0
+96,The system shall generate an audit report based on the available recycled parts and the collision estimate.,1,0
+97,The audit report shall be displayed to the user.,0,1
+98,The current repair facility ratings shall be displayed to the user.,0,1
+99,The preferred repair facility ratings shall be saved by the system.,1,0
+100,The product shall allow the user to select a chosen language from one of the target market countries.,0,0
+101,The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.,1,0
+102,Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.,1,0
+103,The product shall be able to display calendar dates and times according to the user's locale. 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,0,1
+104,The product shall record meeting entries.,1,0
+105,The product will notify employees of meeting invitations.,0,1
+106,The product shall have the ability to send meeting reminders to employees.,1,0
+107,The product shall assign the organizers contact information to each meeting they create.,1,0
+108,The product will record meeting acknowledgements.,1,0
+109,The product shall store new conference rooms.,1,0
+110,The product shall update existing conference rooms.,0,0
+111,The product will be able to delete conference rooms.,0,0
+112,The product shall be able to store new room equipment.,0,0
+113,The product will update existing room equipment.,0,0
+114,The product shall be able to delete room equipment.,0,0
+115,The product shall allow an organizer to invite other employees to meetings.,0,1
+116,The product shall record the transportation status of equipment reserved.,1,0
+117,The product shall display a map of the company building showing conference room locations.,0,1
+118,The product shall record updated meeting agendas.,1,0
+310,"All users should be able to navigate using the sub navigation icons to access the Catalogue PDF, 360 videos, and to contact a representative.",0,1
+311,User enters his/her username or email and his/her password and logs in the system.,1,0
+312,"User touches log out button, and logs out of the system. The user will not use the system until he/she logs in again.",1,0
+313,"User is able to browse the profiles other users. User can see the other users’ user names, profile photos, and the users’ items.",1,1
+314,"user is able to browse categories according to his/her wishes. User can also see
+how many items each category has.",0,1
+315,"user is able browse items. User can see the items’ pictures, prices, and other
+features.",0,1
+316,"If the user changes his/her username or password, a notification mail will be sent to the
+user’s email address.",1,0
+317,The changes will apply if the user clicks on the link in the email.,1,0
+318,"User can buy credits from the system. He/she can use credit card or his/her
+PayPal account.",1,0
+319,User can add the items he/she likes to his cart by touching Add to the cart button.,0,1
+320,"If the item the user wants is available for exchange, the user can request the
+exchange of items that he/she has with the item he/she wants.",1,1
+321,The user can approve the exchange that is offered by another user by clicking Approve button.,0,1
+322,The user can decline the exchange that is offered by another user by clicking Decline button.,0,1
+323,The user notifies other user that the shipment of the item has started.,1,1
+324,The user can add as many as items he/she wants.,1,1
+325,"The user can also set the price, set the amount, upload pictures of the item and add details of the item.",0,1
+326,"The user can edit the items that he/she has already put on the system. The user can add/remove pictures, change the price and details of the item.",0,1
+327,"If the user no longer wishes to sell/exchange the item, he/she can remove the item from the system by touching Remove the item button.",0,1
+328,"If the user no longer wishes to use the system, he/she can click Delete Profile
+button. After deleting the profile, the user will no longer be able to use the system with the account details that he entered before.",0,1
+329,The user can mark an item as a favorite so that he will be notified if any change is made to the item.,0,1
+330,The user can rate and comment about the users whom he traded with.,1,1
+331,Build the search engine based on the search form and sites available.,1,0
+332,"User should be able to search by site name, description.",1,0
+333,System should be self capable with feature of Auto Suggest.,0,1
+334,System should be able to return the search results in descending order in the form of list of links to the sites.,1,0
+335,System should be able to  display No results found in case no search results found. ,0,1
+336,System should have a link back to home in case no results found.,0,1
+337,Geo-location feature to be able to find a user.,1,0
+338,Use Geolocation scripts to locate user.,0,1
+339,Check if user is within 1 mile of the campus.,1,0
+340,"If user within 1 mile of the campus , update location.",0,1
+341,User for permission to use the location service.,0,1
+342,"If the user denied to user the location service, prompt the user to home screen.",0,1
+343,"If user allows location service, create the user.",1,0
+344,"If the system unable to update the location , Show failure message and return the user to home page.",0,1
+345,Update Page with link to sites nearby.,0,1
+346,Build Ajax Response to update home page with a link to nearby site based on user location.,0,1
+347,"Application should respond with a list of links to the 3 nearest sites by A-Z, sorted by name.",1,0
+348,"Application should respond with the sites placed on a map with markers that includes name, description and link to site page.  ",0,1
+349,Application should do the distance calculations and geolocation information for user/site and nearby sites.,1,0
+350,"When user clicks on links to browse sites from home page, the system should respond with a list of links to all the sites by A-Z, sorted on site name",0,1
+351,Application should collect list of all sites sorted by name.,1,0
+352,Application should build URL to each site’s page.,1,0
+353,"When user clicks on link to map sites from the home page, application should respond with a campus map with all the historical sites placed on it",0,1
+354,"Each historical site should have a marker for each site placed on map that include the name, shorten description, and link to the site page.",1,0
+355,The site’s page should contain link to walking directions on tour.,0,1
+356,"Application should respond with a list of thumbnail images for the site, listed from oldest to newest by year.",1,0
+357,"In case no image available, application should return no image flag.",1,0
+358,"When user clicks on a thumbnail image from the site’s page, the application should replace the site’s image with the medium sized clicked on image. ",0,1
+359,Application should replace the site’s description with the clicked on image description.,0,1
+360,"When the user clicks on the main image on the site’s page, application should return with a an enlarged version of the image.",0,1
+361,When User clicks on link to Walking Tour application should  respond with walking tour page.,1,0
+362,"When user clicks on link to About, application should respond with About page.",1,0
+363,No personal data about a user is stored.,0,0
+364,User location information should be deleted nightly via a job.,1,0
+365,The administrator can change text elements used in the user interfaces of the sub-apps and main-app (this does not include the external resources).,1,0
+366,The language can only be selected in the main app.,0,1
+367,The default language of insApption is English.,0,1
+589,The M&C shall perform validity check  before commanding the DBMS to distribute the Config files incl. D/L Keys.,1,0
+590,The M&C shall perform validity check  before commanding the DBMS to distribute the P/L Config Files incl. D/L Keys and Forward Tasking Data.,1,0
+591,The M&C shall perform validity check before commanding the DBMS to distribute the Config File.,1,0
+592,The M&C shall perform validity check before commanding the DBMS to distribute the Config Files or Forward Tasking Data confirmation.,1,0
+593,The M&C shall periodically check the of the network elements by using the ping command.,1,1
+594,The M&C shall periodically poll CSM data from the Ground Stations on SNMPv2c interface.,1,0
+595,"The M&C shall periodically poll max 5 predefined, fixed Ground Stations performance parameters from the DB.",1,0
+596,The M&C shall periodically poll the availability of the Local M&C via SNMPv2c.,1,0
+597,The M&C shall periodically poll the DBMS for EDRS Satellite monitoring information.,1,0
+598,The M&C shall periodically poll the DBMS for EDTS CSM information.,1,0
+599,The M&C shall periodically poll the DBMS for link process changes.,1,0
+600,The M&C shall periodically poll the DBMS for logs from MOC Components.,1,0
+601,The M&C shall periodically poll the DBMS for MOC equipment and MOC component status changes.,1,0
+602,The M&C shall periodically poll the DBMS for the availability of LEO orbit S/C files.,1,0
+603,The M&C shall periodically poll the DBMS for the availability of the Forward Tasking Data.,1,0
+604,The M&C shall periodically poll the EDRS Components for their availability during operations.,1,0
+605,The M&C shall periodically poll the Satellite Control Center component status using SNMPv2c.,1,0
+606,The M&C shall periodically poll the Satellite Control Center for EDRS satellite monitoring information using SNMPv2c.,1,0
+607,The M&C shall periodically poll the status of the Ground Stations via SNMPv2c.,1,0
+608,The M&C shall poll BFLGS status data using SNMPv2c interface.,1,0
+609,The M&C shall poll EDRS Components for alarms using the SNMPv2c interface.,1,0
+610,The M&C shall poll EDRS Components for events using the SNMPv2c interface.,1,0
+611,The M&C shall poll FLGS status data using SNMPv2c interface,1,0
+612,The M&C shall poll HDGS status data using SNMPv2c interface.,1,0
+613,The M&C shall poll periodically the DBMS for Satellite Control Center Forward Tasking Data Confirmation.,1,0
+614,The M&C shall poll periodically the DBMS for Satellite Control Center Forward Tasking Data Upload Confirmation.,1,0
+615,The M&C shall poll RDGS status data using SNMPv2c interface,1,0
+616,The M&C shall poll the component periodically.,0,0
+617,The M&C shall poll the DB for EDRS Satellite anomalies provided by the SSM having an impact on execution and link quality.,1,0
+618,The M&C shall poll the DB for EDRS Satellite anomalies provided by the SSM.,1,0
+619,The M&C shall poll the DB for status information of the dispatching.,1,0
+620,The M&C shall poll the DB for the time to upload the Forward tasking data to the Satellite Control Center.,1,0
+621,The M&C shall poll the DB to retrieve the satellite switchover event.,1,0
+622,The M&C shall poll the DBMS for CSM data received from the CSM Ground Station.,1,0
+623,The M&C shall poll the DBMS for European Data Relay Satellite payload anomalies.,1,0
+624,The M&C shall poll the DBMS for Forward Tasking Data Confirmation.,1,0
+625,The M&C shall poll the DBMS for Satellite Control Centre Forward Tasking Data deletion command acknowledgement.,1,0
+626,The M&C shall poll the DBMS for the European Data Relay Satellite anomalies.,1,0
+627,The M&C shall poll the execution and completion status of the scheduled activities from DBMS.,1,0
+628,The M&C shall poll the Satellite Control Centers and Ground Stations only after authentication.,1,0
+629,The M&C shall poll the status of the DPCC from the SNMPv2c interface.,1,0
+630,The M&C shall poll the status of the SCC from the SNMPv2c interface.,1,0
+631,The M&C shall poll UGS status data using SNMPv2c interface.,1,0
+632,The M&C shall present  to the MOC operator the events.,0,1
+633,The M&C shall present the CSM data to the MOC operator for a visual quality evaluation.,0,1
+634,The M&C shall present the CSM information for visual link quality evaluation to MOC Operator.,0,1
+635,The M&C shall present the operator with audible notification in case an alarm arises in the Ground Station or the Satellite Control Center.,1,1
+636,The M&C shall present the operator with visual notification in case an alarm arises in the Ground Station or the Satellite Control Center.,1,1
+637,The M&C shall present to the MOC operator European Data Relay Satellite payload anomalies.,0,1
+638,The M&C shall present to the MOC Operator the alarms.,0,1
+639,The M&C shall present to the MOC operator the European Data Relay Satellite anomalies,1,0
+640,The M&C shall present to the MOC operator the link process changes latest 30s after its availability in the DBMS.,1,0
+641,The M&C shall present to the MOC operator the MOC equipment or MOC component status changes latest 30s after its availability in the DBMS.,1,0
+642,The M&C shall process internally the Forward Tasking Data set replacement if no Forward Tasking Data set has been uploaded already.,1,0
+791,The OPENCOSS platform shall provide users with the ability to reuse in an assurance project evidence traceability link types defined in another project.,1,0
+792,The OPENCOSS platform shall provide users with the ability to select an existing evidence characterization model for an assurance project.,1,0
+793,The OPENCOSS platform shall provide users with the ability to send emails containing information about actions to perform in an assurance project as a result of evidence evaluation.,1,0
+794,The OPENCOSS platform shall provide users with the ability to send emails containing information about actions to perform in an assurance project as a result of evidence item changes.,1,0
+795,The OPENCOSS platform shall provide users with the ability to specify actions required in the body of evidence of an assurance project as a result of an evidence item change.,1,0
+796,The OPENCOSS platform shall provide users with the ability to specify actions required in the body of evidence of an assurance project as a result of evidence evaluation.,1,0
+797,The OPENCOSS platform shall provide users with the ability to specify evidence traceability links between evidence items of an assurance project.,1,0
+798,The OPENCOSS platform shall provide users with the ability to specify evidence traceability links in traceability matrices.,1,0
+799,The OPENCOSS platform shall provide users with the ability to specify evidence traceability links in traceability tables.,1,0
+800,The OPENCOSS platform shall provide users with the ability to specify the rationale behind the evaluation of an evidence item of an assurance project.,1,0
+801,The OPENCOSS platform shall provide users with the ability to use in an assurance project evidence types that have been defined in another project.,1,0
+802,The OPENCOSS platform shall record if the status of an action required in an assurance project as a result of evidence evaluation is pending or addressed.,1,0
+803,The OPENCOSS platform shall record if the status of an action required in an assurance project as a result of evidence evaluation is pending or addressed.,1,0
+804,The OPENCOSS platform shall show the actions required in an assurance project as a result of evidence evaluation.,1,0
+805,The OPENCOSS platform shall show the actions required in an assurance project as a result of evidence item changes.,1,0
+806,The OPENCOSS platform shall show the evidence items of an assurance project that are the source of evidence traceability links for which a given evidence item is the target.,1,0
+807,The OPENCOSS platform shall show the evidence items of an assurance project that are the target of evidence traceability links for which a given evidence item is the source.,1,0
+808,The OPENCOSS platform shall show the set of evidence items of an assurance projects by means of a tree-view.,1,0
+809,The OPENCOSS platform shall store the CCL-information of the artefact to which an evidence item of an assurance project is associated.,1,0
+810,The OPENCOSS platform shall store the characteristics of the evidence items of an assurance project according to the CCL.,1,0
+911,The system shall monitor motion through cameras.,0,0
+912,The system shall report motion and alert the responsible parties after analyzing the conditions without the aid of external motion detection sensors.,0,0
+913,"The system shall create a snapshot of the user’s usual average CPU utilization percentage, in order to subsequently be used as a basis for comparison, enabling the detection of the tremendous CPU load increase caused by cryptojacking.",1,0
+914,The system shall produce a pop-up notification reporting the detected cryptojacking activity.,0,1
+915,The system shall automatically send email alerts of detected cryptojacking activity.,1,0
+916,The system should offer password strength measuring capability to suggest password security improvements to the user.,0,1
+917,The system shall capture user’s keyboard typing pattern and mouse movement pattern during registration.,1,1
+918,The system shall enable unique features to be extracted using datasets.,1,0
+919,The system shall learn the user’s unique pattern using Naïve Bayes algorithms and store the template in the database.,1,0
+920,The system shall give an update of balance left after every toll deduction by SMS reporting.,1,1
+921,The system shall allow adding of a new user and updating current ones.,1,0
+922,The system shall be able to show all the business units that are registered afore user make a selection.,0,1
+923,The system shall be able to create reports from activity in the system.,1,0
+924,The system shall allow entering the name of the individual whose details and PII are to be searched.,1,0
+925,The system shall allow the web application access to the social sites public profiles.,1,0
+926,The system shall allow Selenium scraping an individual’s personally identifiable information.,1,0
+927,The system shall allow extraction of the personally identifiable information.,1,0
+928,The system shall display the personally identifiable information on a graphical user interface.,0,1
+929,The system shall access a profile from which the PII is scraped and displayed on the graphical user interface.,1,0
+930,The system should be able to generate USSD codes for the transaction.,1,0
+931,The system should be able to send the messages to the target number.,1,0
+932,The system should be able to terminate transaction after ninety seconds of no response.,1,0
+933,The system should flag a claim whose score exceeds the threshold.,1,0
+934,System should allow users to download reports.,0,1
+935,System shall allow user input of Licence number/National I.D Number/Registration Number.,0,1
+936,The system shall allow the user to input the Licence number/national I.D Number of the driver in the system.,0,1
+937,The system shall allow the user to capture Vehicle Registration Number using camera.,0,1
+938,The system shall allow Fingerprint Verification of the Licence Owner.,0,1
+939,The system shall allow the user to extract the Registration Number.,1,0
+940,The system shall allow the user to query the database.,1,1

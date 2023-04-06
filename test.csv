@@ -1,0 +1,402 @@
+id,RequirementText,BR,FR
+119,The product shall display room equipment according to search parameters.,0,1
+120,The product shall display conference rooms according to search parameters.,0,1
+121,The product shall record different meeting types.,1,0
+122,The product shall record all the equipment that has been reserved.,1,0
+123,The product will allow priviledged users to view meeting schedules in multiple reporting views.,0,1
+124,The product shall be able to send meeting notifications via different kinds of end-user specified methods.,1,0
+125,The product will display an available status for unreserved conference rooms.,0,1
+126,Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.,1,0
+127,The System shall be able to automatically backup business data and restore them on demand.,1,0
+128,The System shall allow generation of Inventory Quantity Adjustment documents on demand.,1,0
+129,The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.,1,0
+130,The System shall allow entering storing and modifying product formulas.,1,1
+131,Product formulas shall allow use of semi-products which have own formulas.,1,0
+132,Product formula ingredients shall allow defining substitutionary ingredients.,1,0
+133,Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.,1,0
+134,Product shall allow entering storing and modifying product menus used by POS terminals.,1,1
+135,PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.,1,0
+136,The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.,1,0
+137,Administrator shall be able to activate a prepaid card via the Administration section in under 5 seconds.,1,0
+138,Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.,0,1
+139,System shall let customers register on the website as a pay as you go user in under 5 minutes.,0,1
+140,System shall let customers register on the website as a unlimited movie subscriber user in under 10 minutes.,0,1
+141,System shall let existing customers log into the website with their email address and password in under 5 seconds.,0,1
+142,System shall let customers cancel their account process shall take no longer than 2 minutes. Database will mark the account as inactive and user will not be able to log into the website.,1,1
+143,System shall let administrator deactivate a customer account in under 1 minute. Customer will no longer be able to access the website.,1,0
+144,System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.,1,0
+145,System shall let the administrator add/remove categories on the website in under 5 minutes.,1,0
+146,System shall let administrators generate unique prepaid pins in under 2 minutes and generate an Excel file with the generated PINs.,1,0
+147,Users should be able to access their streaming movies in under 2 clicks after logging into the website.,0,1
+148,The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a predetermined movie in under 3 minutes.,0,1
+149,Izogn Administrator must be able to update the category listings on the website within 2 minutes.,1,0
+150,Izogn Administrator must be able to add new products to the website within 2 minutes.,1,1
+151,The system shall notify customers of changes to its information policy.,0,1
+152,The website will allow customers to search for movies by title actor or director.,0,1
+153,viewing a movie details the website will display the movies description actor and director entered in by the administrator.,0,1
+154,Website shall allow customers to browse movies by categories entered in by izogn administrator.,0,1
+155,Website shall allow customers to view reviews of selected movies by other customers.,0,1
+156,Website shall allow customers to add their own movie review for a selected movie.,0,1
+157,Website shall allow the Izogn administrator to approve a review posted by a customer.,1,0
+158,System will allow customers to pay for a streaming movie with a prepaid card.,1,0
+159,Website shall allow customers to purchase prepaid cards of $5 $10 or $20 value either by credit card or mail-in payment option.,0,1
+160,System shall allow users to update their billing and contact information via the My Account section of the website.,0,1
+161,Prepaid cards shall be distributed via email or via a printed paper card.,0,0
+162,Website must be able to support free trial periods with various parameters set by the Izogn Manager.,1,1
+163,The leads washing functionality will validate all leads received by the web service for valid data,1,0
+164,The leads washing functionality will insert all leads captured by the web service.,1,0
+165,The leads washing functionality will compile both contact and academic scoring information for a total score.,1,0
+166,The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.,1,0
+167,The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.,1,0
+168,The leads washing functionality will have an interface in which lead data parameters can be maintained.,1,1
+169,The leads washing functionality will verify the users authentication and rights to make parameter updates.,1,0
+170,The leads washing functionality will store any potential lead duplicates returned by the enterprise system.,1,0
+171,The leads washing functionality shall receive a period list of available reps from the enterprise system.,1,0
+172,The product shall be available to players who understand English Spanish and French. The product shall allow the user to select the language upon accessing the product.,1,1
+173,The product shall maintain a list of players.,1,0
+174,The product shall allow a user to identify himself or herself as a player.,0,1
+175,The product shall allow a user to remove himself or herself from the list of players at any time.,0,1
+176,The product shall allow a player to initiate a game by selecting another available player from the list of players.,0,1
+177,The product shall allow a player to position ships horizontally on their grid.,0,1
+178,The product shall allow the player to position ships vertically on their grid.,0,1
+179,The product shall allow the player to position ships diagonally on their grid,0,1
+180,The product shall allow a player to end a game at any time during the game.,0,1
+181,When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.,1,0
+182,When a game is ended the product shall allow each player to remove himself or herself from the list of players.,1,0
+183,The product shall ensure that only supervisors can advertise empty time slots. The product must ensure that supervisors are allowed to access advertise empty time slots.',1,0
+184,The product shall ensure that only supervisors can enter a caller's schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.',1,0
+185,The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.',1,0
+186,The product shall provide GUI based Monitoring Services. System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.,1,1
+187,The product shall provide Monitoring Services. The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,1,1
+188,The product shall provide Error Tracking Services. The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.,1,1
+189,The product shall provide Portals. The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),1,1
+190,The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,1,1
+191,The product shall provide Dynamic Change Support and Transparent resource addition. The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.,1,0
+192,The Brio portion of the WCS system must be able to export files in spreadsheet form (Microsoft Excel and Lotus 1-2-3 formats). Brio will provide buttons in the user interface that produce/export reports in .xls or .123 file formats.,1,0
+193,Users shall be able to view at least 25 NFL player statistics and points on each page.,0,1
+194,The system shall have a MDI form that allows for the viewing of the graph and the data table.,0,1
+195,The Disputes System must be accessible by both internal and external users.,1,1
+196,The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.,1,0
+368,The main menu contains a launcher to the Map-app.3.1.3.,0,1
+369,The main menu contains a launcher to the News-app.3.1.4.,0,1
+370,The main menu contains a launcher to the Agenda-app.3.1.5.,1,1
+371,The main menu contains a launcher to the Facebook-app.3.1.9.,1,1
+372,The main menu contains a launcher to the Twitter-app.3.1.10.,1,1
+373,The main menu contains a launcher to the Employee-finder-app.3.1.6.,1,1
+374,"The main menu contains a launcher to the Encyclopedia-app, only if the Dutch language is selected.3.1.7.",1,1
+375,"The main menu contains a launcher to the Student handbook-app, only if the Dutch language is selected.3.1.8.",1,1
+376,There is a link to a Twitter settings menu.,0,1
+377,There is a link to a Facebook settings menu.,0,1
+378,"In the settings menu for Twitter the user can save username in combination with password, regarding Twitter.",1,0
+379,"In the settings menu for Facebook the user can save username in combination with password, regarding Facebook.",1,0
+380,"In the settings menu for Twitter there is an option to delete the saved username in combination with the password, regarding Twitter.",0,1
+381,"In the settings menu for Facebook there is an option to delete the saved username in combination with the password, regarding Facebook.",0,1
+382,The application maintainer can modify the appearance of the separate launchers.,1,1
+383,It is possible to search for a certain building on the campus of the TU/e by name.,1,0
+384,It is possible to search for a certain building on the campus of the TU/e by address.,1,0
+385,A search described in requirements UCAR201 and UCAR202 results in a displayed set of buildings that match the search input.,1,0
+386,"It is possible to view an element from the search result described in UCAR201, UCAR202 and UCAR203 in the map view.",0,1
+387,It is possible to navigate from a building on the campus to another building on the campus.,0,1
+388,It is possible to navigate from a street on the campus to another location on the campus.,0,1
+389,It is possible to switch between different means of transportation in the navigator.,0,1
+390,The from-location can be searched by the name of a building.,1,1
+391,The from-location can be searched by the address of a building.,1,1
+392,The from-location can be searched by the name of a POI.,1,1
+393,The from-location is selected from the search result described in UCAR211 and UCAR212.,0,1
+394,The from-location can be selected on the map.,0,1
+395,The to-location can be searched by the name of a building.,1,1
+396,The to-location can be searched by the address of a building.,1,1
+397,The to-location can be searched by the name of a POI.,1,1
+398,The to-location is selected from the search result described in UCAR215 and UCAR216.,0,1
+399,The to-location can be selected on the map.,0,1
+400,It is possible to switch between stylistic map view and satellite map view.,1,1
+401,It is possible to zoom when in the map view.,1,1
+402,It is possible to pan when in the map view.,1,1
+403,Current location is shown in the map view.,0,1
+404,The administrator can change the stylistic map.,1,0
+405,The administrator can add buildings.,1,0
+406,The administrator can remove buildings.,1,0
+407,The administrator can add vertices of a path which is used in the route planner.,1,0
+408,The administrator can remove vertices of a path which is used in the route planner.,1,0
+409,The administrator can remove edges of a path which is used in the route planner.,1,0
+410,The administrator can add edges of a path which is used in the route planner.,1,0
+411,"The administrator can link a POI to a certain building, floor and room.",1,0
+412,"The administrator can unlink a POI from a certain building, floor and room.",1,0
+413,There is a calendar view.,0,1
+414,It is possible to open calendar view.,0,1
+415,It is possible to close calendar view.,0,1
+416,The user can change the calender to a different month.,0,1
+417,The user is able to see on which days events take place in calendar view.,0,1
+418,The current day is indicated on the calendar.,0,1
+419,By selecting a certain day in the calendar the events for that day are shown.,0,1
+420,It is possible to search for events by date.,1,1
+421,It is possible to search for events by subject.,1,1
+422,It is possible to search a person by name.,1,1
+423,It is possible to search a person by department.,1,1
+424,It is possible to search the book by a certain word or phrase.,1,1
+425,A search described in requirement UCAR602 results in a displayed set of topics.,0,1
+426,The user can select a topic from the search result list.,0,1
+427,By clicking on a topic the full text regarding that topic is shown.,0,1
+428,A search described in requirement UCAR702 results in a displayed set of topics.,0,1
+429,The user can select a topic from the search result described in requirement UCAR703.,0,1
+430,Other TU/e related Facebook-sites can be selected from a list (see for contents of list requirement UCAR803).,0,0
+431,The administrator can modify the list of TU/e related Facebook-sites.,1,0
+432,Other TU/e related Twitter-sites can be selected from a list (see for contents of list requirement UCAR903).,0,0
+433,The administrator can modify the list of TU/e related Twitter-sites.,1,0
+434,"Given that a user has registered, then the user should be able to retrieve his/her password by e-mail.",1,0
+435,"In this case, user enters his/her username, name, surname, password, mail address sets a profile photo. When the user fills all necessary fields, an activation mail will be sent to users mail address. User will be able to log in and start using the system just after activating his/her account.",1,1
+436,"In this case, user enters his/her username or email and his/her password and logs in the system.",1,1
+437,"In this case, user touches log out button, and logs out of the system. The user will not use the system until he/she logs in again.",1,1
+438,"In this case, user is able to search items. User can search items according to their price, their location, their category.",0,1
+439,"In this case, user is able to browse categories according to his/her wishes. User can also see how many items each category has.",0,1
+440,"In this case, user can buy credits from the system. He/she can use credit card or his/her PayPal account.",1,0
+441,"In this case, the user can buy items he/she has added to cart with credits, if the items are available for buying with credits.",1,0
+442,"In this case, if the item the user wants is available for exchange, the user can request the exchange of items that he/she has with the item he/she wants.",1,1
+443,"In this case, the user notifies other user that the shipment of the item has started.",1,1
+444,"In this case, the user can add as many as items he/she wants. The user can also set the price, set the amount, upload pictures of the item and add details of the item.",0,1
+445,"In this case, the user can edit the items that he/she has already put on the system. The user can add/remove pictures, change the price and details of the item.",0,1
+446,"In this case, the user can mark an item as a favorite so that he will be notified if any change is made to the item",0,1
+447,"In this case, the user can rate and comment about the users whom he traded with.",0,1
+448,The client will send a GET request to the Web API with the question as a URL parameter The client will specify the header Content-Type: application/json in their requests as convention. A valid API query is a single URL parameter containing one sentence that is a question in standard English.,1,0
+449,"The server will reply with either data or an error, see R4.1.3.5. The client will be able to parse the JSON and determine if there was an error. The server will send all API data in JSON response documents with the header Content-Type: application/json. The server will respond with a 200 OK status code if a request has the header Content-Type: application/json and is a valid API query. The server will respond with a 400 Bad Request status code if a request does not specify the header Content-Type: application/json OR is a malformed API query.",1,0
+450,"This unit will have a list of generic words related specifically to potential queries (examples: building, professor)",1,1
+451,"An error during this process means there was a problem parsing the sentence and creating the generic question. In this case, return a message such as â€œSorry, I didnâ€™t understand that.â€",0,0
+452,This unit will receive the output sentence from the Generic Question Construction unit as input.,1,0
+453,"If there was an error here, then the unit failed to create a generic answer given a generic sentence. In this case, simply fallback to the error handling described in R4.4.2.1",0,0
+454,This unit will receive as input a mapping from the Generic Question Construction unit,1,0
+455,This unit will receive as input a generic answer from the Generic Answer Construction unit,1,0
+456,This unit will query the database for data about the elements in the mapping,1,0
+457,This unit will replace the representations in the generic answer with data.,1,0
+458,"This unit will output the answer to the original question, as described in R4.4.1.3.",1,1
+459,A MySQL database will be used to store all information required to answer questions.,1,0
+460,"The database is populated by the information extraction unit before the rest of the system is available, so that all information is readily accessible.",1,0
+461,The database will use the generic representations from R4.2.2.1 as table names or column headers for easier retrieval of data.,1,0
+462,The database will be updated periodically and the API will be unavailable during the update.,1,0
+463,Structural data sources will have their data stored in our database,1,0
+464,"For data with enough structuring, web scraping will be used to programmatically extract all the data needed and store it in our database.",1,0
+465,"For totally unstructured information, AI libraries will be used to programmatically extract and store any information possible",1,0
+466,"Data that is especially hard to extract, for whatever reason, will be manually extracted and added to the database by a developer.",1,0
+467,The GUI will have a text box that will accept inputs from a keyboard.,0,1
+468,"Text box will originally contain a suggestive text question, to guide the user to the format of an appropriate question. ",0,1
+469,The GUI will have a chat window displaying questions sent to the system and responses from the API.,0,1
+470,"The chat window will contain all questions and answers from the current session, with a scroll bar if all messages can't fit on the screen.",0,1
+471,"If there is a network issue, the chat window will display an error message.",0,1
+472,There will be a designated phone number that users can send texts to.,0,0
+473,"Texts sent to that number will be sent to the API, then the system will reply to the user with the answer as another text message.",1,0
+474,"If a question is not understood by our API, the system will send a text containing an example question after the text with the API response.",1,0
+475,Upon the USB being plugged in the system shall be able to be deployed and operational in less than 1 minute,0,0
+476,The system shall be able to handle 1000 customers logged in concurrently at the same time.,0,0
+477,"After a M&C component configuration change, the  M&C shall  store  its configuration into  the DBMS.",1,0
+478,All M&C component documents and software shall be version controlled.,1,0
+479,"An anomaly shall be described in textual, human readable and understandable format.",0,0
+480,As soon as a planned outage is schedule the M&C shall inform the DBMS.,1,1
+643,The M&C shall process the Forward Tasking Data Confirmation and store a confirmation to the DBMS.,1,0
+644,The M&C shall process the Forward Tasking Data Upload Confirmation and store a confirmation to the DBMS.,1,0
+645,The M&C shall provide MOC operator with the ability to start the local M&C.,1,0
+646,"The M&C shall provide the MOC Operator with a feature to change EDRS Component availability status, expected time to restore service.",1,0
+647,The M&C shall provide the MOC operator with the ability to acknowledge the unplanned outage.,1,0
+648,The M&C shall provide the MOC operator with the ability to command MOC components to load new configuration from the DB.,1,0
+649,The M&C shall provide the MOC operator with the ability to display the log.,0,1
+650,The M&C shall provide the MOC operator with the ability to export the search and filter results to a file in a CSV format enabling analysis by an external tool.,1,0
+651,"The M&C shall provide the MOC operator with the ability to filter the logs by sender, severity and timestamp.",1,0
+652,The M&C shall provide the MOC operator with the ability to query the logs from DBMS.,1,0
+653,The M&C shall provide the MOC Operator with the ability to receive overall status alarm for EDRS Satellite.,1,0
+654,The M&C shall provide the MOC operator with the ability to schedule planned outages.,1,0
+655,The M&C shall provide the MOC operator with the ability to search and filter log entries in the DBMS.,1,0
+656,The M&C shall provide the MOC operator with the ability to search through the log entries by specifying a search string.,1,0
+657,"The M&C shall provide the MOC operator with the ability to start the local M&C. 
+Technically, the local M&C cannot run as child process of the Remote M&C. It runs as independent process on the operating system.",1,0
+658,The M&C shall provide the MOC operator with the ability to switch to active state at standby MOC.,1,0
+659,The M&C shall provide the MOC operator with the ability to switch to standby state at active MOC.,1,0
+660,The M&C shall provide the MOC operator with the ability to trigger dispatching of Configuration Files and Data Files.,1,0
+661,The M&C shall provide the MOC operator with the ability to view the log entries retrieved from the DBMS.,1,0
+662,The M&C shall provide the operator with the ability to report an anomaly as fixed and closed.,1,0
+663,The M&C shall provide user with the ability to remotely monitor and control via SNMPv3.,1,0
+664,The M&C shall provide users with the ability to change the positions of M&C windows.,1,0
+665,The M&C shall provide users with the ability to configure control interface via SNMPv3.,1,0
+666,The M&C shall provide users with the ability to configure monitoring interface via SNMPv3.,1,0
+667,The M&C shall provide users with the ability to display dialog windows to any position on the screen.,1,0
+668,The M&C shall provide users with the ability to display the EDRS TC Data to the MOC Operator.,0,1
+669,The M&C shall provide users with the ability to poll configurable intervals for modules reading information from EDRS components.,1,0
+670,The M&C shall provide users with the ability to remotely monitor and control operations via SNMPv3 interface.,1,0
+671,The M&C shall provide users with the ability to request EDRS-A TeleCommand (TC) data stored in the DBMS.,1,0
+672,The M&C shall provide users with the ability to restore the windows position when the application is started.,1,0
+673,The M&C shall provide users with the ability to retrieve log entries from the DBMS.,1,0
+674,The M&C shall provide users with the ability to save the current windows position when the application is closed.,1,0
+675,The M&C shall provide users with the ability to support configuration reload requests handling via SNMPv3 interface.,1,0
+676,The M&C shall provide users with the ability to test it under maintenance.,1,0
+677,The M&C shall provide users with the ability to trigger the execution of the build-in tests thru SNMPv3 interface.,1,0
+678,The M&C shall raise a visual and audible alarm to the MOC operator in case availability cannot be detected.,1,0
+679,The M&C shall raise an alarm (visual and audible) to the MOC operator in case re-connection fails after [m] retires.,1,0
+680,The M&C shall read system configuration data from the DB.,1,0
+681,The M&C shall read the new configuration from DBMS upon request.,1,0
+682,The M&C shall read the system configuration for each EDRS Component from the DBMS.,1,0
+683,The M&C shall receive the control credentials from the DB.,1,0
+684,"The M&C shall receive the CSM information in textual human readable format from DBMS, such that no additional post processing or calculation is required. ",1,0
+685,The M&C shall report the status of the Forward tasking data dispatching to Satellite Control Centers to the MPS via DB.,1,0
+686,The M&C shall retrieve the control credentials from the DB.,1,0
+687,The M&C shall retrieve the control mode of the MOC Components using the SNMPv3 interface.,1,0
+688,The M&C shall retrieve the monitoring credentials from the DB.,1,0
+689,The M&C shall save system configuration data to the DB.,1,0
+690,The M&C shall store  the availability of the EDRS components into  the DBMS.,1,0
+691,The M&C shall supply  visual indication on alarms and events to MOC Operator.,1,0
+692,The M&C shall supply a MOC Operator role which shall allow monitoring and control.,1,0
+693,"The M&C shall supply a MOC Operator role which shall allow monitoring, only.",1,0
+694,The M&C shall supply a warning when an EDRS Component constraint has changed to the MOC Operator.,1,0
+695,The M&C shall supply an SNMPv3 object used to remotely command its mode of operations to either active or standby.,1,0
+696,The M&C shall supply audible indication on alarms and events to MOC Operator.,1,0
+697,"The M&C shall supply test drivers for those requirements which could not verified by review, inspection, analysis, inspection or demonstration.",1,0
+698,The M&C shall supply the control mode information to MOC Operator.,1,0
+699,The M&C shall supply the EDRS Satellite monitoring information to MOC Operator.,1,0
+700,The M&C shall supply the status of each Ground Station and Satellite Control Center to the operator.,1,0
+701,The M&C shall supply the status of each Mission Operations Center to MOC Operator.,1,0
+702,The M&C shall supply the status of execution and completion of scheduled activities to MOC Operator.,1,0
+703,The M&C shall supply the time and status of the latest configuration file upload per EDRS component to MOC Operator.,1,0
+704,The M&C shall supply this status information to MOC Operator.,1,0
+705,The M&C shall supply those performance parameters to MOC Operator.,1,0
+706,The M&C shall supply visual and audible alarm in any Control Mode in case of event or alarm to MOC Operator.,1,0
+707,The M&C shall support configurable polling interval per ground station.,1,0
+708,"The M&C shall support following configuration functions: GEO convolutional decoding, GEO de-framing, GEO Reed Solomon decoding, EDRS decryption, Data stream combination, Header management and evaluation, Idle data deletion for  each  communication  session  according to  the  parameters  of  the  communication schedule related configuration files 
+It is assumed that this information is transparent to the M&C since the M&C is in charge of uploading the configuration file, only. ",1,0
+709,"The M&C shall support following workflow when going from active to standby state: Synchronization of the DBMS, Change of the active MOC components to standby state, Change the active MOC to standby state, Change of the standby MOC components to active state, Change the standby MOC to active MOC.",1,0
+710,The M&C shall support LDAP for user authentication and authorization.,1,0
+711,The M&C shall support reloading of configuration parameters during runtime.,1,0
+712,The M&C shall support the general concepts defined by RSS for data backup.,1,0
+713,"The M&C shall support the handling of up to 200 communication sessions per day for  each  type  of communication  session  (Ka-ISL,  OISL)  for  each  payload. Where  10% (TBC2) of the OISL sessions are Forward Tasking sessions with a total uplink time of 2.4h (TBC3).",1,0
+714,The M&C shall support the modification of any of its configuration parameters upon request.,1,0
+715,The M&C shall support the workflow required to distribute a Config File to BFLGS by polling events from the DBMS and writing status to DBMS.,1,0
+716,The M&C shall support the workflow required to distribute a Config File to FLGS by polling events from the DBMS and writing status to DBMS.,1,0
+717,The M&C shall support the workflow required to distribute a Config File to HDGS by polling events from the DBMS and writing status to DBMS.,1,0
+718,The M&C shall support the workflow required to distribute a Config File to RDGS by polling events from the DBMS and writing status to DBMS.,1,0
+719,The M&C shall support the workflow required to distribute a Config File to UGS by polling events from the DBMS and writing status to DBMS.,1,0
+720,The M&C shall support the workflow required to distribute Config Files incl D/L Keys to UGS EDTE by polling events from the DBMS and writing status to DBMS.,1,0
+721,The M&C shall support the workflow required to distribute Config Files or Forward Tasking Data confirmation to UGS by polling events from the DBMS and writing status to DBMS.,1,0
+722,The M&C shall support the workflow required to distribute Forward Tasking data by polling events from the DBMS and writing status to DBMS.,1,0
+723,The M&C shall support the workflow required to distribute P/L Config Files incl. D/L Keys and Forward Tasking Data Config File to SCC by polling events from the DBMS and writing status to DBMS.,1,0
+724,The M&C shall support the workflow required to distribute to the DPCC P/L Config Files incl. D/L Keys file by polling events from the DB and writing status to DBMS.,1,0
+725,The M&C shall support up to five configurable status parameters.,1,0
+726,The M&C shall take into account the communication limits from the system configuration in the DBMS when planning the dispatching time.,1,0
+727,The M&C shall take the System Configuration Database parameters into account when commanding the DBMS to upload configuration files to EDRS components.,1,0
+728,The M&C shall time out if there is no connection to the Ground Station components local M&C.,1,0
+729,The M&C shall trigger the DBMS to issue a closure form to all the involved stakeholders.,1,0
+730,The M&C shall update the session data status in the DBMS with the availability of the Forward Tasking Data.,1,0
+731,The M&C shall upload files to the defined upload directory using SFTP after authentication.,1,0
+732,The M&C shall upload the Configuration Files [delay+/-margin] before execution of the link.,1,0
+733,The M&C shall use different colors to present visually to the MOC Operator the EDRS MOC component status.,0,1
+734,The M&C shall use the computer time to synchronize activities and when assigning timestamps to objects.,1,0
+735,The M&C shall wait until mode change if finished or a timeout occurs.,1,0
+736,The M&C shall write the alarms and events to the DBMS.,1,0
+737,The M&C shall write the alarms to the DBMS.,1,0
+738,The M&C shall write the events to the DBMS.,1,0
+739,The M&C shall write the polled CSM accompanied by a time-stamp and ground station ID data into the DB.,1,0
+740,The M&C shall write the status to the DB.,1,0
+741,The M&C shall write the status to the DBMS.,1,0
+742,The margin and the delay of the configuration upload shall be configurable parameters in the DBMS.,1,0
+743,The Mission Operations Center status can be either active or standby.,1,0
+744,The severity of the events shall be configurable in the DBMS.,1,0
+745,The SSM shall supply a selection of general EDRS Satellite parameters through the DB to MOC Operator.,1,0
+746,The status can be one of the possible EDRS Component Statuses.,1,0
+747,The OPENCOSS platform shall be able to automatically associate an artefact in an external tool to an evidence item of an assurance project imported from the external tool.,1,0
+748,The OPENCOSS platform shall be able to automatically associate an artefact to an evidence traceability link of an assurance project imported from an external tool.,1,0
+749,The OPENCOSS platform shall be able to automatically indicate the tool that stores the artefact associated to an evidence item of an assurance project imported from external tool.,1,0
+750,The OPENCOSS platform shall be able to automatically indicate the tool that stores the artefact associated to an evidence traceability link of an assurance project imported from an external tool.,1,0
+811,The OPENCOSS platform shall store the information of the evidence traceability links of an assurance project according to the CCL.,1,0
+812,The OPENCOSS platform shall store the time and date of the actions performed to the evidence items of an assurance project.,1,0
+813,The OPENCOSS platform shall suggests actions to perform after modification of an evidence item of an assurance project is approved.,1,0
+814,The OPENCOSS platform will include a column in a table for traceability visualization for each evidence type to include in the table indicated by users.,1,0
+815,The OPENCOSS shall be able to import evidence for an assurance project from SAEM models.,1,0
+816,"When a user aims to drop an evidence traceability link of an assurance project, the OPENCOSS platform shall require confirmation of the action from the user.",1,0
+817,"When a user has indicated a possible change in an evidence item of an assurance project, the OPENCOSS platform shall indicate the evidence items of the assurance project that would be affected by the change.",1,0
+818,"When a user wants to drop an evidence item from an assurance project, the OPENCOSS platform shall request confirmation from the user for this action and subsequent related actions.",1,0
+819,"When all the evidence items to provide in an assurance project has been provided according to the evidence characterization model of the project, the OPENCOSS platform shall indicate that the body of evidence of an assurance project can be regarded as complete.",1,0
+820,"When an evidence characterization model has been selected for an assurance project and specifying an evidence traceability link for an evidence item of the project, the OPENCOSS platform shall indicate if the evidence traceability link is correct according to the model.",1,0
+821,"When an evidence characterization model has been selected for an assurance project and specifying evidence traceability links for an evidence item of the project, the OPENCOSS platform shall show possible evidence items with which evidence traceability links might be specified according to the model.",1,0
+822,"When an evidence characterization model has been selected for an assurance project, the evidence items of the project are associated to evidence types, and the evidence types have been used for definition of intermediate nodes of the tree-view for display of the evidence items of the project, the OPENCOSS platform shall automatically include the evidence items of the project in the tree-view nodes of their associated evidence types.",1,0
+823,"When an evidence characterization model has been selected for an assurance project, the OPENCOSS platform shall indicate the required missing links according to the model.",1,0
+824,"When an evidence characterization model has been selected for an assurance project, the OPENCOSS platform shall propose intermediate nodes for the tree-view for display of the evidence items of the project according to the evidence characterization model.",1,0
+825,"When an evidence item is changed in an assurance project and other evidence items are affected, the OPENCOSS platform shall require confirmation of the changes from the user.",1,0
+826,"When an evidence item is changed in an assurance project, the OPENCOSS platform shall indicate the evidence items of the assurance project affected by the change.",1,0
+827,"When an evidence item is dropped from an assurance project and its associated artefact is not associated with other evidence items, the OPENCOSS platform shall drop the artefact from the project.",1,0
+828,"When an evidence item is dropped from an assurance project, the OPENCOSS platform shall drop all the evidence information (types and characteristics) related to the evidence item from the project.",1,0
+829,"When an evidence item is modified in an assurance project, the OPENCOSS platform shall indicate the evidence traceability links of the assurance project affected by the modification.",0,1
+830,"When an evidence item of an assurance project contains information imported from an external tool artefact, and the information in the external tool is modified, the OPENCOSS platform shall detect such a modification and update the evidence item accordingly.",1,0
+831,"When an evidence item of an assurance project contains information imported from an external tool, and the information in the external tool is modified, the OPENCOSS platform shall indicate such a modification by colouring the evidence item in red.",0,1
+832,"When an evidence item of an assurance project contains information imported from an external tool, and the information in the external tool is modified, the OPENCOSS platform shall indicate such a modification.",1,0
+833,"When an evidence item of an assurance project contains information imported from an external tool, and the information in the OPENCOSS platform is modified, the OPENCOSS platform shall detect such a modification and update the information in the external tool accordingly.",1,0
+834,"When an evidence item of an assurance project contains information imported from an external tool, and the information in the OPENCOSS platform is modified, the OPENCOSS platform shall indicate such a modification by colouring the evidence item in red.",0,1
+835,"When an evidence item of an assurance project contains information imported from an external tool, and the information in the OPENCOSS platform is modified, the OPENCOSS platform shall indicate such a modification.",1,0
+836,"When an evidence item of an assurance project has been affected by evidence item changes, the OPENCOSS platform shall colour such an evidence item in red.",0,1
+837,"When an evidence item of an assurance project has been associated to actions to perform as a result of evidence evaluation, the OPENCOSS platform shall colour such an evidence item in red.",0,1
+838,"When an evidence item of an assurance project is related to other evidence items of the project by means of evidence traceability links, the OPENCOSS platform shall inform the user that the evaluation of the evidence item might depend on the evaluation of the others.",1,0
+839,"When an evidence item of an assurance project is the source or the target of an evidence traceability link, and the item is dropped from the project, the OPENCOSS platform shall drop the evidence traceability link from the project too.",1,0
+840,"When an evidence traceability link of an assurance project contains information imported from an external tool, and the information in the external tool is modified, the OPENCOSS platform shall detect such a modification and update the evidence traceability link accordingly.",0,1
+841,"When an evidence traceability link of an assurance project contains information imported from an external tool, and the information in the external tool is modified, the OPENCOSS platform shall indicate such a modification by colouring the evidence traceability link in red.",0,1
+842,"When an evidence traceability link of an assurance project contains information imported from an external tool, and the information in the external tool is modified, the OPENCOSS platform shall indicate such a modification.",1,0
+843,"When an evidence traceability link of an assurance project contains information imported from an external tool, and the information in the OPENCOSS platform is modified, the OPENCOSS platform shall detect such a modification and update the information in the external tool accordingly.",1,0
+844,"When an evidence traceability link of an assurance project contains information imported from an external tool, and the information in the OPENCOSS platform is modified, the OPENCOSS platform shall indicate such a modification by colouring the evidence traceability link in red.",1,0
+845,"When an evidence traceability link of an assurance project contains information imported from an external tool, and the information in the OPENCOSS platform is modified, the OPENCOSS platform shall indicate such a modification.",1,0
+846,"When an evidence traceability link of an assurance project has been affected by evidence item changes, the OPENCOSS platform shall colour such a link in red.",1,0
+847,"When an evidence traceability link of an assurance project is not correct according to the evidence characterization model selected for the project, the OPENCOSS platform shall colour such a link in red.",1,0
+848,"When showing evidence traceability by means of tables, the OPENCOSS platform shall require that the users indicate the evidence types to include in the table.",1,0
+849,"When the body of evidence of an assurance project is regarded as complete, all the evidence traceability links of the project are correct, there are no pending actions in the project, and the information imported from external tools in the project is synchronized, the OPENCOSS platform shall indicate that the body of evidence of an assurance project can be regarded as adequate.",1,0
+850,"When the specification of characteristics for an evidence item of an assurance project is not regarded as complete, the OPENCOSS platform shall colour the evidence item in yellow.",1,0
+941,The system shall display the profile of licence owner.,1,1
+942,The system shall be able to close the session.,0,1
+943,The system shall have the ability of scanning images of vehicle registration numbers and undergo pattern recognition for database matching.,1,0
+944,The system should be able to capture windows log files independent from the Window Operating System.,1,0
+945,The system should be able to analyse the captured logs using a visual approach.,1,0
+946,The system shall ensure the exchange of data is between some target host computers on the same network and web-based application software.,1,0
+947,The system shall allow a user to create and load an image.,0,1
+948,The system shall enable a user to find web history of a machine.,0,1
+949,The system shall allow general users to only have access through the user interface.,0,1
+950,The system shall allow the user to access the start menu screen.,0,1
+951,The system shall allow the user to view the paired devices at any time.,0,1
+952,The system shall allow every type of file to be entered for analysis.,1,0
+953,The system shall display interfaces describing operations performed during processes.,0,1
+954,The system shall show descriptions of work-flows and stages as outlined in the sequence diagram.,0,1
+955,The system must generate reports (date time file hash status) or other outputs after the file has been scanned.,1,0
+956,The system shall allow clients or administrator to enter the data or upload or download files from or into the system.,1,1
+957,The system shall allow a user to be able to retrieve information from the database.,1,1
+958,The system shall use Bluetooth a wireless technology for the transmission of data among two devices in close proximity of each other.,1,0
+959,The system shall allow a user to use Bluetooth to enable smartphone that communicates with a laptop over a short-range wireless link.,0,1
+960,The system shall allow pairing of smartphone with the laptop.,1,1
+961,The system should maintain basic patient information and permissions on a central server.,1,0
+962,"The system shall allow new accounts for patients, medical centres and health practitioners to be created.",1,1
+963,The system capture and store users’ fingerprint template at the initial signing in.,1,0
+964,The system should allow users to store critical information such as allergies and conditions on a central server.,1,0
+965,The system shall provide a common API for health information systems to update and read records.,1,0
+966,The system shall allow health care providers to access the system through a screen based software application.,0,1
+967,The system should be able to provide visualization in terms of graphs.,0,1
+968,The system should be able to monitor the network in real time.,1,0
+969,The system shall have a working environment which is the main screen which will allow the user to monitor the network.,0,1
+970,The system shall have imaging ability so as to make a copy of the information contained on the mobile device which will be used during the forensics process as the test data source.,1,0
+971,The system shall have extraction modules that will be able to take out information from the image that has been created.,1,0
+972,The system shall have analysis module that will use metadata contained with the extracted information detect location data so as to create a movement map from this information.,1,0
+973,The system shall enable a user to have a functional account with the Twitter platform and create an application to access tokens.,1,1
+974,The system must be able to connect to Twitter Streaming API.,1,0
+975,The proposed system should be able to extract raw data from Twitter in real time.,1,0
+976,The system should be able to pre-process the unstructured data into meaningful information match with existing keywords in database.,1,0
+977,"The system shall enable web data mining from Twitter, Twitter API provides different levels of accessing data through its Twitter Data Grants program.",1,0
+978,The system shall be able to capture data packs.,1,0
+979,The system shall be able to de-fragment captured packets.,1,0
+980,The system shall be able to analyse the captured packets.,1,1
+981,The system shall be able to interpret the analysis results.,1,1
+982,The system shall enable potential blood donors to register and answer a health history questionnaire.,0,1
+983,The system shall be able to screening of blood to occur at the blood bank and results to be entered into the system.,1,0
+984,The system shall be able to defer ineligible donors and inform eligible donors via SMS.,1,0
+985,The system shall be able to keep an inventory of the donated blood id and type.,1,0
+986,The system shall enable that when a request is made by the doctor/hospital a session is opened and a confirmation key is generated and sent to the doctor/patient via email which they then will use after receiving the correct requested blood.,0,1
+987,The system should be able to identify the current location of the patient in times of emergencies.,0,1
+988,The system should generate a road map from RRT to the patient and then to the nearest hospital.,0,1
+989,"The system shall ensure that the exchange of data is between mobile and web-based application software, humans and combinations of these.",1,1
+990,The system data well integrated with the web-based application in a seamless manner since both systems use the same database for sharing data.,1,1
+991,"The system shall be able to create and enforce secure coding practices throughout the development by strictly identifying the originator of the data that is required, recognizing the data items and data structures that are necessary for exchange.",1,1
+992,The system shall be able to locate and monitor a vehicle using GPS.,1,0
+993,The system shall be able to locate an Examiner during Road Test.,1,0
+994,The system shall be able to allocate an Examiner a Route to use once he finishes testing a learner driver in the Yard.,1,0
+995,The system shall be able to alert the control room through webpage notification if Objects exit defined routes.,1,0
+996,The system shall be able to alert the control room through webpage notification if Objects exit defined routes',1,0
+997,The system shall be able to update eligible vehicles from different driving schools which are permitted to conduct Road Test.,1,0
+998,The system shall be able to enter new applicants into the system database.,1,0
+999,The system shall be able to allocate examination time for applicants.,1,0
+1000,"The system shall be able to implement clear secure data exchange protocols, it is ideal to implement secure protocols and document the interfaces and the protocols being utilized.",1,1

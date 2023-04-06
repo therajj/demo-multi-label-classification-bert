@@ -1,0 +1,400 @@
+id,RequirementText,BR,FR
+1,The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts.,1,1
+2,The system shall display Events in a vertical table by time.,0,1
+3,The system shall display the Events in a graph by time.,0,1
+4,The system shall display Events or Activities.,0,1
+5,The system shall color code events according to their variance from current time.,0,1
+6,The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications,1,0
+7,The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.,1,0
+8,The system shall allow modification of the display.,0,1
+9,The system shall filter data by: Venues and Key Events.,0,1
+10,The system shall allow a user to define the time segments,1,0
+11,The system shall display the local and exercise time in separate clocks,0,1
+12,The system shall offer the ability to pause and resume the refresh of data.,1,0
+13,The system shall provide charts for the Activity or Event actual versus assumed time.,0,1
+14,The system shall provide a history report of changes made to the Activity or Event data,1,0
+15,The product shall produce search results in an acceptable time,1,0
+16,The product shall generate a CMA report in an acceptable time.,1,0
+17,The product shall allow the user to view previously downloaded search results CMA reports and appointments.,0,1
+18,The system shall allow a real estate agent to query MLS information,1,0
+19,The user shall be able to get driving directions to a selected property,0,1
+20,The user shall be able to download appointments and contact information for clients.,1,0
+21,The system shall update or create new property listings in the MLS.,1,0
+22,Realtor shall be able to generate a CMA report based on property criteria.,1,0
+23,The system shall be able to call the seller or buyer to schedule an appointment.,1,0
+24,The realtor shall be able to retrieve a map showing property locations for a specified area.,1,0
+25,The product shall allow the user to save the property search results.,0,0
+26,2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.,0,0
+27,The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.,0,0
+28,The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.,0,0
+29,The system shall protect private information in accordance with the organization's information policy.,0,0
+30,Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.,1,0
+31,Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort.,1,0
+32,Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.,1,0
+33,For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.,1,0
+34,Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes.,1,0
+35,Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes.,1,0
+36,Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.,1,0
+37,Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.,1,0
+38,Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.,1,0
+39,Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study.,1,0
+40,The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members' planning purposes.,1,0
+41,Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.,1,0
+42,Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.,1,0
+43,Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.,1,0
+44,The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.,1,0
+45,The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.,1,0
+46,Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,1,0
+47,A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.,1,0
+48,A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.,1,1
+49,"The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort ,progress through the program and timeline of completion.",0,1
+50,The system shall be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter (Clinical site general information on labs held at that location dates and times of all labs held there).,1,1
+51,"The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name, class number, lab section listing of students enrolled instructor day(s) time and location.",1,1
+52,"The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name, student ID, admission date, classes credits, GPA and the cohort that the student is enrolled in.",1,1
+53,The system shall be able to display a printable summary of the system log.,1,1
+54,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.,1,0
+55,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.,1,0
+56,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.,1,0
+57,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.,1,0
+58,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number email status (full time or part time) and program of study.,1,0
+59,Only users with Update access must be able to initiate dispute requests.,0,0
+60,The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level. The report will be reviewed for auditing purposes.,1,0
+61,The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.,1,0
+62,The Disputes System shall provide update access capability for authorized users of the application.,1,0
+63,The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.,0,1
+64,The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.,0,1
+65,The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.,0,1
+66,The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.,0,1
+67,The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information  the dispute case number the type of retrieval requested (copy original or portfolio) and the date that the merchant response is due.,0,1
+68,The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.,0,1
+69,The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information  the dispute case number the type of chargeback requested (pending or immediate) and the date that the merchant response is due.,0,1
+70,The Disputes System shall accurately provide a list of possible reason codes for a given transaction. The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to according to the business rules defined for the Disputes System.,1,1
+71,The Disputes System must provide the ability to view existing dispute cases.,1,1
+72,The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.,1,1
+73,A list of all disputes cases that meet the entered search criteria must be provided to the user. The list of cases must differentiate the type and/or status of the case by color coding the line item in the list. For example all open cases will be yellow and all closed cases will be gray.,0,1
+74,The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.,1,1
+75,The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.,1,1
+76,The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.,1,0
+77,For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.,1,1
+78,The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.,0,0
+197,The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,1,1
+198,The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.,1,0
+199,The Disputes System shall provide view access capability for authorized users of the application.,1,1
+200,The Disputes System will provide the user the ability to create or initiate a ticket retrieval request.   As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request.  The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.,1,1
+201,The Disputes System must allow the user to create three unique types of ticket retrieval requests.  The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.,1,1
+202,The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.,1,0
+203,The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number  the type of retrieval requested (copy  original or portfolio)  and the date that the merchant response is due.,1,1
+204,The Disputes System shall allow the user to create or initiate a chargeback request.  The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.,1,1
+205,The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number  the type of chargeback requested (pending or immediate)  and the date that the merchant response is due.,1,1
+206,The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.,1,0
+207,The Disputes System shall accurately provide a list of possible reason codes for a given transaction.  The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to  according to the business rules defined for the Disputes System.,1,0
+208,The Disputes System must provide Search functionality.  The search method must include the ability to search by (1) the dispute case number  (2) the merchant account number  (3) the cardmember account number and (4) the issuer number.  In addition to the above criteria  the search functionality must further allow the user to limit the results of the search by a date range  the type of dispute (ticket retrieval request or chargeback notification)  the case status (open  closed or all) and the dispute reason code.,1,1
+209,A list of all disputes cases that meet the entered search criteria must be provided to the user.  The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list.  For example all open cases will be yellow and all closed cases will be gray.,0,1
+210,The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions.  The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.,1,1
+211,The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system.  A detailed history of the actions taken on the case  including the date and the user that performed the action must be maintained for auditing purposes.,1,0
+212,For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process  a case activity will be generated.  Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.,1,0
+213,All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.,0,0
+214,Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.,1,0
+215,The user shall search for the preferred repair facility using vehicle  vehicle location  and radius in miles,0,1
+216,The vehicle data shall include vehicle year  make  and model,0,0
+217,The vehicle location shall include street address city state and zipcode,0,0
+218,The system shall resolve the zipcode for the street address  city  and state if zipcode is unknown.,1,0
+219,The search radius shall be between 1 and 30 miles,0,1
+220,The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,1,1
+221,The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers,1,0
+222,The system shall retain the available recycled parts and suppliers returned from the search.,1,0
+223,The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.,1,0
+224,The audit report shall include the total number of recycled parts used in the estimate.,1,0
+225,The audit report shall include the number of available recycled parts from the original search results.,1,0
+226,The audit report shall include the percentage of available recycled parts used in the estimate,1,0
+227,The audit report shall include the total score of the audit which sums the indivual line items.,1,0
+228,The audit report shall be available to other adjusters at later points in time.,1,0
+229,The system will display a blank set of ratings if there are not ratings yet defined.,0,1
+230,The ratings shall be from a scale of 1-10,1,1
+231,The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts,1,1
+232,Each time a conference room is reserved  the conference room schedule shall be updated to reflect the time and date of the reservation.,1,0
+233,The product shall send a meeting confirmation to the meeting organizer.,1,0
+234,The product shall notify building personnel of equipment transport requests.,1,0
+235,The IQA subsystem shall take into account current inventory status and adjust inventory of substitutionary ingredients accordingly.,1,0
+236,Website shall request and authorize credit card payment before allowing a user to stream a movie.,0,1
+237,shall be able to stream purchased movie via Windows Media Player  for up to 2 days after purchase date.,0,0
+238,Website shall allow customers to purchase prepaid cards of $5  $10  or $20 value either by credit card or mail-in payment option.,0,1
+239,System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.,0,1
+240,System shall allow users to update their billing and contact information via the My Account section of the website.,1,1
+241,Only registered customers can purchase streaming movies.,1,0
+242,Movies can only be streamed if the customer has purchased a movie and is within the 2-day time period to stream the movie.,1,0
+243,All streaming movie sales will be logged in the database and accessible by the administrator.,1,0
+244,All registered customer information shall be stored and maintained in the database even after the customer cancels their account.,1,0
+245,Daily usage statistics should be logged and accessible by the administrator.,1,0
+246,The owner shall have free access to all of the streaming movies.,1,0
+247,If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.,1,0
+248,If the leads score falls within the high average score then it will be process by the ARA functionality.,1,0
+249,If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,1,0
+250,If the leads score falls within the low average then it will be returned to the supplying vendor,1,1
+251,Prior to submitting the lead to the enterprise system the leads washing functionality will assign the lead to an admissions rep.,1,0
+252,Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.,0,1
+253,The product shall make inactive players unavailable for selection from the list of players.,1,0
+254,The product shall remove players who have been inactive for 24 hours from the list of players.,1,0
+255,Once a game is initiated  the product shall display a defensive grid to each player,0,1
+256,Once a game is initiated  the product shall display an offensive grid to each player.,0,1
+257,The product shall prevent a player from viewing the offensive or defensive grids of the other player.,0,1
+258,Once a game is initiated the product shall allow each player to position their 5 ships on their respective defensive grids.,0,1
+259,The product shall prevent the player from overlapping ships on their grid.,0,1
+260,When both players have positioned their 5 ships on their defensive grids  the product shall define the status of each player for the first turn.,1,1
+261,For each turn  the product shall identify one player as offensive status and one player as defensive status.,1,1
+262,The product shall maintain the status of each player for a turn either offensive or defensive.,1,1
+263,For each turn the product shall allow the offensive player to define a shot.,1,1
+264,For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.,1,0
+265,For each shot the product shall notify the players whether the shot was a hit or miss.,0,1
+266,For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.,1,0
+267,When the hit results in sinking a ship  the product shall notify the players that the ship was sunk.,0,1
+268,When the hit results in sinking a ship the product shall mark the ship as sunk on the defensive grid of the defensive player.,1,0
+269,When the hit results in sinking a ship the product shall indicate the type of ship sunk on the defensive grid of the defensive player.,1,0
+270,When the hit results in sinking a ship the product shall mark the ship as sunk on the offensive grid of the offensive player.,0,1
+271,If the shot was marked as a hit the product shall allow the offensive player to define a shot.,0,1
+272,If the shot was marked as a miss the product shall change the status of the offensive player to defensive,0,1
+273,If the shot was marked as a miss the product shall change the status of the defensive player to offensive,0,1
+274,The product shall continue to assign turns until the game is ended.,1,1
+275,The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player s ships  which had not been previously marked as sunk.,1,1
+276,When a game is ended the product shall notify the players that the game is ended.,1,1
+277,The notification of the game ending will include the reason the game is ended (i.e.  a player has won the game or a player has ended the game).,1,1
+278,The system shall display clear property images in the search results.,0,1
+279,The realtor shall be notified of new client appointments after automatic synchronization with office system.,1,0
+280,The system shall notify the realtor when a seller or buyer responds to an appointment request.,1,1
+281,A cohort shall be associated to one Program of Study offered by the department.,1,0
+282,Students added to a cohort shall be eligible for the cohort s Program of Study.,1,0
+283,For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.,1,0
+284,The system shall offer a display of all the Events in the exercise.,0,1
+285,The system will use the stored email addresses as a primary means of communicating information to affected parties.,1,0
+286,The system will notify affected parties for routine communication purposes  including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.,1,1
+287,The system will notify affected parties when changes occur affecting clinicals  including but not limited to clinical section capacity changes  and clinical section cancellations.,1,1
+288,The system will notify affected parties when changes occur affecting classes  including but not limited to class cancellations  class section detail changes  and changes to class offerings for a given quarter.,1,1
+289,The feature of the application shall provide the optimized route for the given addresses.,0,1
+290,This feature provides the user to select an optimized route for the addresses given and fixing any path between the desired locations.,1,1
+291,"After every user request, new maps are needed to be loaded.",0,1
+292,After installing the Application from iTunes or the App store the user will be asked to login.,1,1
+293,"Upon successful login, the user can select from the following catalogue options:  Spring 2013 ,Winter 2013.",0,1
+294,"Based on the selection the product categories will be listed: Outerwear,Soft Shell,Fleece,Knits,Wovens,Active Wear,        Safety,Accessories,Team Wear,        e.c.o. Collection",0,1
+295,Once a category is selected the product thumbnail images will appear for selection.,0,1
+296,A user can then select the product and view the details.,0,1
+297,The detail page will contain all the same features and information as the website.,0,1
+298,"Upon successful login, the user can select from the following catalogue options or use the search function indicated by the search icon in the top right hand corner of the application.",0,1
+299,Once the icon is selected two open text field will be available to the user to search for the product name - by product ID/SKU or by keyword.,0,1
+300,Following a successful query the search feature will query the application database to display the search results. Following an unsuccessful query the search feature will display an error message that no matches were found,1,0
+301,A user can select the desired product from the results and proceed to the product details.,0,1
+302,From the here the user can either proceed to call a rep for an order or proceed to the online checkout process.,0,1
+303,"Upon successful login, the user can select from the following catalogue options, search or use the sub navigation to find the following items: Catalogue ,Videos,Contact Us.",0,1
+304,Should a user select to download the catalogue PDF it will be viewed on their mobile device.,0,1
+305,"Should a user select videos, the 360 video list will display. Upon selecting a video it will play on their device.",0,1
+306,All users shall be able to zoom into images using the standard gestures on mobile devices.,0,1
+307,All Users will be able to view the next product by swiping left to right.,0,1
+308,All users should be able to go back to the product category page via the back button in the top corner.,0,1
+309,All users should be able to search by keyword or product ID.,1,1
+481,As soon as a unplanned outage is detected the M&C shall inform the DBMS.,1,1
+482,As soon as a unplanned outage is detected the M&C shall inform the MOC operator.,1,1
+483,Demonstration should consist of performing typical operational procedures demonstrating the fulfilment of the requirements.,0,0
+484,"During the M&C component design phase, the quality control personnel shall co-ordinate with the design personnel to assure that requirements are stated in such a way that conformance of hardware and procedures can be objectively verified. ",0,0
+485,"For all non-conformances affecting equipment hardware or software the appropriate standard non-conformance forms ( NCR , SPR ) shall be used.",0,0
+486,"For each EDRS stakeholder a configurable parameter shall exists in the DB, which defines the distribution interval in seconds.",1,0
+487,If the anomaly leads to an unavailability of EDRS Satellite for more than 24hrs the M&C shall supply this information in the EDRS Satellite status window to MOC Operator.,1,1
+488,"If the M&C needs a local configuration file, then it shall be created from the DB system configuration data.",1,1
+489,"In case of non-conformance, failures or problems, hardware or software, it shall to follow the  approved quality assurance procedures.  ",0,0
+490,"In case of positive acknowledgement the M&C shall store the acknowledge message in DBMS, delete the Forward Tasking Data set from DBMS and command the DBMS to notify the user of the acknowledgement of his request.",1,1
+491,"M&C component design verification by review of analytical data shall consist of a review of all applicable valid documentation, typically design drawings, technical  notes in view of proper reflection and implementation of requirements of applicable specifications.",0,0
+492,M&C component requirements of a general nature should be verified by demonstration.,0,1
+493,"On MOC operator request, the M&C shall command the DBMS to dispatch all autonomously dispatched Configuration Files and Data Files.",1,1
+494,"Provisions shall be made to verify conformance to each stated requirement and that tools, facilities, skills, technical plans and procedures used will result in compliant hardware and software.",0,0
+495,SPACEBEL shall install the M&C component on the M&C server.,1,0
+496,"Specific software, not available commercially, shall be developed according to ECSS-E-ST-40c or a tailored and customer approved version thereof.",1,0
+497,TECHCOM shall supply a installation guideline for the M&C component and additional artifacts required to run the M&C component.,0,0
+498,"The  M&C shall provide users with the ability to configure following parameters: event timers durations, activities workflows triggers.",0,1
+499,"The case of negative acknowledgement the M&C shall: store the acknowledge message in DBMS, command the DBMS to notify the user of the rejection of his request.",1,0
+500,"The DBMS shall facilitate the M&C with human readable, textual EDRS Satellite monitoring information.",1,1
+501,"The Ground Stations shall supply the CSM data in final, ready to display format.",0,0
+502,The M&C access shall access only local parts of the GFMN.,1,0
+503,The M&C component administration documentation shall contain all parameters valid at delivery.,0,0
+504,The M&C component shall command the DBMS to dispatch the final Configuration Files to the EDRS Stakeholders.,1,0
+505,The M&C component shall command the DBMS to upload the final Configuration Files to the Satellite Control Center and Ground Station.,1,0
+506,The M&C component shall lock the component change mode feature while a component change mode request is under execution.,1,0
+507,The M&C component shall log the approved changes and events in the DBMS.,1,0
+508,The M&C component shall poll the DBMS for log information.,1,0
+509,The M&C component shall provide users with the ability to read the log files from log directory.,0,1
+510,"The M&C Component shall provide users with the ability to search, filtering and analysis of log files by using an external tool.",0,1
+511,The M&C component shall provide users with the ability to verify its complete functionality without connection to other EDRS MOC components or other EDRS entities.,0,1
+512,The M&C component shall send its log information to the centralized syslog daemon.,1,0
+513,The M&C component shall supply an interface simulator to support interface simulation during upgrade or validation tests.,0,0
+514,"The M&C component verification document shall provide a matrix that shall identify the verification method: test, analysis, review, inspection, demonstration for either a single requirement or a group of requirements and the parameters which shall be tested, demonstrated, analysed.",0,0
+515,"The M&C components shall be able to support handling of up to: 2 Ka-ISL payloads, 4 OISL payloads, 3 GEO satellite, 20 Users, 25 LEO satellites.",1,0
+516,"The M&C remote monitoring and control function shall support following services: starting, stopping, restarting, change of component state, shutdown of component.",1,0
+517,The M&C server application shall run on a server installed in a server room.,0,0
+518,The M&C shall aggregate the EDRS Satellite alarms into an overall status alarm.,1,0
+519,"The M&C shall allow access to the configuration control interface to authenticate MOC operators, only.",1,1
+520,"The M&C shall allow access to the configuration monitoring interface to authenticate MOC operators, only. ",1,1
+521,The M&C shall allow the operator to register a foreseen due date for a European Data Relay Satellite anomaly.,1,1
+522,The M&C shall allow the operator to register a foreseen due date for a European Data Relay Satellite payload anomaly.,1,1
+523,The M&C shall always be aware which MOC is active and which one standby.,1,1
+524,The M&C shall always try to connect after the grace period but shall not raise new alarms if it fails.,1,1
+525,"The M&C shall apply new configuration  with a limited (less than 30 minutes) unavailability time or without unavailability if the parameter is only modifying event timers durations, activities workflows triggers.",1,0
+526,The M&C shall assure that Forward tasking data is available at Satellite Control Center in time before communication session.,1,0
+527,The M&C shall avoid any connection to the internet except if required and authorized for operation purposes.,1,1
+528,The M&C shall be able to launch CFI local M&C application as separate process.,0,1
+529,The M&C shall command DBMS to distribute the Forward tasking data to the Satellite Control Center for the respective EDRS Satellite.,1,0
+530,The M&C shall command the DBMS to dispatch the configuration files to the Satellite Control Center and Ground Stations in case of satellite switchover.,1,0
+531,The M&C shall command the DBMS to distribute the configuration files to the EDRS stakeholders.,1,0
+532,The M&C shall command the DBMS to forward the Config File to the BFLGS.,1,0
+533,The M&C shall command the DBMS to forward the Config File to the FLGS.,1,0
+534,The M&C shall command the DBMS to forward the Config File to the HDGS.,1,0
+535,The M&C shall command the DBMS to forward the Config File to the RDGS.,1,0
+536,The M&C shall command the DBMS to forward the Config File to the UGS.,1,0
+537,The M&C shall command the DBMS to forward the Config Files incl. D/L Keys to the UGS EDTEs.,1,0
+538,The M&C shall command the DBMS to forward the Config Files or Forward Tasking Data confirmation to the UGS.,1,0
+539,The M&C shall command the DBMS to forward the Forward Tasking data file to the Satellite Control Center.,1,0
+540,The M&C shall command the DBMS to forward the P/L Config Files incl. D/L Keys and Forward Tasking Data File to the SCC.,1,0
+541,The M&C shall command the DBMS to forward the P/L Config Files incl. D/L Keys file to the DPCC.,1,0
+542,The M&C shall command the DBMS to send the LEO orbit S/C files to the Satellite Control Centre.,1,0
+543,The M&C shall command the DBMS to upload the configuration file.,1,0
+544,The M&C shall command the DBMS to upload the Configuration Files according to the schedule.,1,0
+545,The M&C shall command the DBMS to upload the Configuration Files and Communication Schedule Files to EDTE and User Data Storage System.,1,0
+546,The M&C shall command the DBMS to upload the configuration files.,1,0
+547,The M&C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.,1,0
+548,The M&C shall configure the Anti-LIAU of an EDTE using a configuration file at the time specified in the final configuration schedule.,1,0
+549,The M&C shall configure the EDTEs and data storage system installed on the Ground Stations by uploading configuration files.,1,0
+550,The M&C shall connect only to those networks for which the IP addresses have been specified.,0,0
+551,The M&C shall control EDTEs installed on the Ground Stations and the Ground Stations itself using the SNMPv2c interface.,1,0
+552,The M&C shall control Ground Stations only after authentication.,1,0
+553,The M&C shall control MOC Components via SNMPv3 only after authentication.,1,0
+554,The M&C shall control the EDTE and DSU via SNMPv3 only after authentication.,1,0
+555,The M&C shall detect an unplanned outage from EDRS Components.,1,0
+556,The M&C shall display all the warnings or alarms to the MOC operator no later than 30 seconds (TBC26) after its reception or after its generation (internal to M&C).,0,1
+557,The M&C shall display the status information of the dispatching to MOC Operator.,0,1
+558,The M&C shall download files from the defined download directory using SFTP after authentication.,1,0
+559,"The M&C shall generate a Forward Tasking Data deletion command to the Satellite Control Centre and store it on DBMS if a previous Forward tasking data set has been uploaded already, covering the concerned session.",1,0
+560,The M&C shall generate an XML file for EDRS Component constraints change trace ability purpose.,1,1
+561,"The M&C shall handle following constraint attributes changes: time, length, validity.",1,0
+562,The M&C shall handle Forward Tasking Data Replacement requests until Last_Planning_Request before the communication session.,1,0
+563,The M&C shall have access to the MOC Components via SNMPv3.,1,0
+564,The M&C shall have access to the MOC Components via TCP/IP protocol family and applications.,1,0
+565,The M&C shall keep track of the latest configuration files sent to the Satellite Control Centers and Ground Stations.,1,0
+566,The M&C shall load new configuration from DBMS and apply it as soon as it receives reloading request via SNMPv3 interface.,1,0
+567,The M&C shall locally use only that GFMN address range allocated to the local components.,1,0
+568,The M&C shall maintain license key locally where applicable.,1,0
+569,The M&C shall make the IP addresses it uses available for router configuration.,1,0
+570,The M&C shall monitor and control activities of  active MOC and standby MOC.,1,0
+571,The M&C shall monitor and control the Ground Stations components by using SNMPv2c.,1,0
+572,The M&C shall monitor and control the Mission Operations Center components by using SNMPv3.,1,0
+573,The M&C shall monitor EDTEs installed in the Ground Stations and the Ground Stations itself using the SNMPv2c interface.,1,0
+574,The M&C shall monitor Mission Operation Center components status via SNMPv3.,1,0
+575,The M&C shall monitor MOC Components via SNMPv3 only after authentication.,1,0
+576,The M&C shall monitor the MOC components configuration parameters changes in the DB.,1,0
+577,The M&C shall monitor the Satellite Control Center components by using  SNMPV2c.,1,0
+578,The M&C shall not use local configuration files for system operations.,1,0
+579,The M&C shall notify the DBMS to dispatch Forward Tracking Data Confirmation to the respective user.,1,0
+580,The M&C shall notify the DBMS to send a Forward Tasking Data Confirmation to the respective user.,1,0
+581,The M&C shall notify the DBMS to send a Forward Tasking Data Upload Confirmation to the respective user.,1,0
+582,The M&C shall notify the DBMS when a reported anomaly is fixed and closed.,1,0
+583,The M&C shall notify the MOC operator about MOC component configuration changes.,1,0
+584,The M&C shall notify the MOC visually and audibly in case of alarms and events.,1,1
+585,The M&C shall notify the MPS of the degradation of the service via DB.,1,0
+586,The M&C shall notify the MPS when a reported anomaly is fixed and closed.,1,0
+587,The M&C shall obtain the time when to upload the configuration from the DBMS.,1,0
+588,The M&C shall perform validity check  before commanding the DBMS to distribute the Config File.,1,0
+751,The OPENCOSS platform shall be able to export evidence traceability links of an assurance project to external tools.,1,0
+752,The OPENCOSS platform shall be able to export the evidence of an assurance project in the form of a SAEM models.,1,0
+753,"The OPENCOSS platform shall be able to generate reports about the body of evidence of an assurance project by means of documents in PDF, RTF, and MS Word formats.",1,0
+754,The OPENCOSS platform shall be able to generate reports about the body of evidence of an assurance project in the form of HTML files.,1,0
+755,The OPENCOSS platform shall be able to show the chains of evidence to which an evidence item of an assurance project belongs by means of models.,1,0
+756,The OPENCOSS platform shall create the evidence repository of an assurance project from its evidence characterization model.,1,0
+757,The OPENCOSS platform shall provide the users with the ability to indicate the evidence items that will have to be provided for an assurance project.,1,0
+758,The OPENCOSS platform shall provide the users with the ability to indicate the evidence types of the evidence items to be provided for an assurance project.,1,0
+759,The OPENCOSS platform shall provide users with the ability to associate evidence items of an assurance project with an artefact that has been used in another project.,1,0
+760,The OPENCOSS platform shall provide users with the ability to associate evidence types to the intermediate nodes of the tree-view for display of the evidence items of an assurance project.,0,1
+761,The OPENCOSS platform shall provide users with the ability to copy evidence items to an assurance project that previously have been stored in another assurance project.,1,0
+762,The OPENCOSS platform shall provide users with the ability to define criteria for evaluation of evidence items of an assurance project.,1,0
+763,The OPENCOSS platform shall provide users with the ability to define evaluation categories for evaluation criteria of evidence items of an assurance project.,1,0
+764,The OPENCOSS platform shall provide users with the ability to define evidence traceability link types for an assurance project.,1,0
+765,The OPENCOSS platform shall provide users with the ability to define intermediate nodes in the tree-view for display of the evidence items of an assurance project.,1,0
+766,The OPENCOSS platform shall provide users with the ability to define tables to show traceability between the evidence items of an assurance project.,1,0
+767,The OPENCOSS platform shall provide users with the ability to drop evidence items of an assurance project.,1,0
+768,The OPENCOSS platform shall provide users with the ability to drop evidence traceability links of an assurance project.,1,0
+769,The OPENCOSS platform shall provide users with the ability to drop intermediate nodes in the tree-view for display of the evidence items of an assurance project.,1,0
+770,The OPENCOSS platform shall provide users with the ability to evaluate evidence items of an assurance project according to evaluation criteria defined in other projects.,1,0
+771,The OPENCOSS platform shall provide users with the ability to evaluate evidence items of an assurance project with evaluation categories for evaluation criteria defined in other projects.,1,0
+772,The OPENCOSS platform shall provide users with the ability to evaluate the evidence items of an assurance project according to evaluation criteria defined in the CCL.,1,0
+773,The OPENCOSS platform shall provide users with the ability to import evidence items for an assurance project from artefacts in an external tool.,1,0
+774,The OPENCOSS platform shall provide users with the ability to import evidence traceability links for an assurance project from an external tool.,1,0
+775,The OPENCOSS platform shall provide users with the ability to include the evidence items of an assurance project in the structure of the tree-view for display of the evidence items of the project.,1,0
+776,The OPENCOSS platform shall provide users with the ability to indicate if an action required in an assurance project as a result of evidence evaluation has been addressed.,1,0
+777,The OPENCOSS platform shall provide users with the ability to indicate if an action required in an assurance project as a result of the change of an evidence item has been addressed.,1,0
+778,The OPENCOSS platform shall provide users with the ability to indicate the artefact to which evidence items of an assurance project is associated.,1,0
+779,The OPENCOSS platform shall provide users with the ability to indicate the evidence items associated to actions required in the body of evidence of an assurance project as a result of an evidence evaluation.,1,0
+780,The OPENCOSS platform shall provide users with the ability to indicate the evidence items associated to actions required in the body of evidence of an assurance project as a result of an evidence item change.,1,0
+781,The OPENCOSS platform shall provide users with the ability to indicate the evidence traceability links associated to actions required in the body of evidence of an assurance project as a result of an evidence item change.,1,0
+782,The OPENCOSS platform shall provide users with the ability to indicate the evidence type of the current evidence items of an assurance project.,1,0
+783,The OPENCOSS platform shall provide users with the ability to indicate the information to be included in the reports about the body of evidence of an assurance project.,1,0
+784,The OPENCOSS platform shall provide users with the ability to indicate whether the specification of characteristics for an evidence item of an assurance project is regarded as complete.,1,0
+785,The OPENCOSS platform shall provide users with the ability to modify criteria for evaluation of evidence items of an assurance project.,1,0
+786,The OPENCOSS platform shall provide users with the ability to modify the evaluation categories defined for evaluation criteria of evidence items of an assurance project.,1,0
+787,"The OPENCOSS platform shall provide users with the ability to modify the evaluation of the evidence items of an assurance project, tracking the history of the changes.",1,0
+788,The OPENCOSS platform shall provide users with the ability to modify the information about the artefact to which an evidence item of an assurance project is associated.,1,0
+789,The OPENCOSS platform shall provide users with the ability to modify the information of the evidence items of an assurance project.,1,0
+790,The OPENCOSS platform shall provide users with the ability to modify the intermediate nodes in the tree-view for display of the evidence items of an assurance project.,1,0
+851,"When the specification of characteristics for an evidence item of an assurance project is regarded as complete, the OPENCOSS platform shall colour the evidence item in green.",1,0
+852,"When the status of an action required in an assurance project as a result of evidence evaluation is pending, the OPENCOSS platform shall colour such an action in red.",1,0
+853,"When the status of an action required in an assurance project as a result of evidence item changes is pending, the OPENCOSS platform shall colour such an action in red.",1,0
+854,"When using matrices to show evidence traceability links between the evidence items of an assurance project, the OPENCOSS platform shall provide users with the ability to select source and target evidence types of the evidence traceability links used for another matrix.",1,0
+855,"When using tables to show evidence traceability in an assurance project, the OPENCOSS platform shall provide users with the ability to select the evidence types used for another table.",1,0
+856,The system shall generate a report of the detected and analyzed vulnerabilities.,1,1
+857,The system shall analyze the detected vulnerability.,1,0
+858,The system shall inspect SSL certificate.,1,0
+859,The system shall allow parameter inputs to be supplied using different user-friendly input components that are based on Graphical User Interface (GUI) concepts.,0,1
+860,The system reports shall be delivered in industry-standard format.,1,1
+861,The system shall be able to carefully diagnose the real vulnerabilities when they exist based on conducting formula-based experiments.,1,0
+862,"The system shall allow cloud user to register and create an account. In the registration process, the system shall capture user details such as user name, id number, email address, mobile number, etc.",1,0
+863,"Upon registration, the system must generate a shared encryption key.",1,0
+864,The system shall allow the user to upload and download stored files.,1,1
+865,The system shall provide a platform that allows the user to upload files for storage and also to retrieve the files by downloading them when required.,1,1
+866,The system shall create an environment for embedding and extracting the watermark from an image.,1,0
+867,The system shall also provide a section for verification in the sense that if an image is said to have a watermark it should be able to detect and display the watermark.,1,0
+868,The system shall allow an author who desires to protect his/her work from unauthorized use to upload an image with his/her visible digital watermark along with the registration number.,1,0
+869,The system shall allow the administrator to embed the invisible digital watermark whenever an author submits his /her piece of art.,1,0
+870,The system shall be able to take face pictures of a suspect.,0,1
+871,The system shall be able to save taken pictures into the database.,1,0
+872,The system shall optionally allow the user to destroy the suspect’s details files or save them for future records in a secure database.,1,0
+873,The system shall be able to match current picture with database pictures.,1,0
+874,The system shall be able to retrieve criminal records from the database based on pictures taken.,1,0
+875,The system shall utilize a centralized database.,1,0
+876,The system shall be able to push warning script to the rogue node.,1,0
+877,The system shall be able to Recover unique identifiers of the node which was used to generate the node s unique ID/fingerprint upon registration when the owner entered/joined the university with it.,1,0
+878,The system shall be able to check with students laptop and university PC register and search for device matching the rogue node and corresponding student and student personal details.,1,0
+879,The system shall be able to display message on rogue note screen warning the student by name that port scanning is not allowed and this is automatically added to the student s record if such an offence is repeated more than once.,1,0
+880,The system shall be able to generate monthly reports which can be viewed by network admin when necessary.,1,0
+881,"The system shall look at port scanning only on the host it will be deployed on, this will devote all the listen to one part of the many policies in a computer.",0,0
+882,The system shall ensure that buzzer must ring if 3 consecutive wrong attempts are entered.,0,1
+883,The system shall allow the buzzer to ring if 3 consecutive wrong attempts are made.,0,1
+884,The system shall allow GSM to send an SMS alert message when 3 consecutive wrong attempts are entered.,1,0
+885,The system shall send child SMS to parent device.,1,0
+886,The system shall forward child SMS/MMS to an email account.,1,0
+887,The system shall send phone call notifications of child device as SMS.,1,0
+888,The system shall forward phone call notifications of child device to an email account.,1,0
+889,The system shall be able to request for phone location by a SMS of parent device.,1,0
+890,The system shall be able to record phone call in audio file forwarded with notification if parent asked for those (forward by email only).,1,0
+891,The system shall be able to send phone location with a time period.,1,0
+892,The system shall be able to forward pictures.,1,0
+893,The system shall be able to send a random screen shot of videos played in phone (forward by email only).,1,0
+894,The system shall be able to remotely start/stop mic record with keyword in SMS and forward the audio file by email.,1,0
+895,The system shall be able to access contacts list in child device.,1,0
+896,The system shall be able to disable/Enable applications list with keyword in SMS.,1,0
+897,The system shall be able to keep reminders about a child.,1,0
+898,"The system shall be able to collect and analyse data that the child is typing and if it captures certain keywords or a continuous sequence of expletives, it should send an alert through text to the parent’s smartphone.",1,0
+899,The system shall prevent any applications from being installed or uninstalled.,1,0
+900,The system shall allow a user who has a functional account with the Twitter platform to create an application to access tokens.,1,1
+901,The system shall be able to pre-process the unstructured data into meaning information and match with existing keywords in database.,1,0
+902,The system shall be able to apply a classification algorithm for classification of the processed tweets matching with the labeled tweets in the tweet corpus.,1,0
+903,The system shall sync with a major international Bitcoin exchange for real time exchange prices.,1,0
+904,The system shall provide currency calculator for Bitcoin conversion to USD.,0,1
+905,The system shall provide web of trust reputation statistics.,0,1
+906,The system shall capture and store all transactions.,1,0
+907,The system shall manage user profiles.,1,0
+908,The system shall enable Bitcoin transaction processing.,1,0
+909,The system shall be able to sync with other exchange platforms for exchange prices.,1,0
+910,The system shall allow a member to spontaneously form a group of n signers using group public keys which associate the group members.,1,0
